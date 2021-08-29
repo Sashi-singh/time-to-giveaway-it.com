@@ -1,0 +1,174 @@
+*{
+  margin: 0;
+  padding: 0;
+  
+}
+.banner{width: 100%;
+height: 100vh;
+background-image: linear-gradient(rgba(0,0,0,0.30),rgba(0,0,0,0.30),#000000),url(0s.jpg);
+background-size: cover;
+background-position: center;
+
+
+  
+}
+.post{width: 100%;
+height: 13vh;
+background-image: linear-gradient(rgba(0,0,0,0.30),rgba(0,0,0,0.30)),url(sas.jpg);
+background-size: cover;
+background-position: center;
+  
+}
+
+
+nav ul li{
+
+  float: right;
+  margin-top: 15pt;
+  display: inline-block;
+  justify-content: space-around;
+  font-family: sans-serif;
+}
+nav ul li a{text-transform: uppercase;
+  font-size: 15pt;
+justify-content: space-around;
+  color: white;
+  padding: 5px 20px;
+  
+  
+  
+}
+
+.post nav ul li a :hover{
+border: 1px solid black;
+}
+
+
+  
+  
+
+h2 b{margin-top: 170pt;
+text-transform: uppercase;
+  left: 10%;
+  right: 50%;
+  position: absolute;
+  color:white;
+  font-size: 15pt;
+  text-decoration: none;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3{
+  margin-top: 10pt;
+  left: 20%;
+  position: absolute;
+  color:white;
+  font-size: 24pt;
+  text-decoration: none;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p i {margin-top: 55pt;
+left: 10%;
+right: 50%;
+
+  position: absolute;
+  color:white;
+  font-size: 17pt;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+button a {margin-top: 65pt;
+  left: 60%;
+
+  position: absolute;
+  font-size: 16pt;
+  color: white;
+  font-family: 'Gill Sans', 'Gll Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  border: 2px solid white;
+  border-style: groove;
+  padding: 3px 6px;
+  text-decoration: none;
+  
+  
+}
+button i a{margin-top: 65pt;
+  left: 72%;
+  position: absolute;
+  font-size: 16pt;
+  color: white;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  border: 2px solid white;
+  border-style: groove;
+  padding: 3px 6px;
+  text-decoration: none;
+  
+}
+button j a{margin-top: 125pt;
+  left: 64%;
+  position: absolute;
+  font-size: 16pt;
+  color: white;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  border: 2px solid white;
+  border-style: groove;
+  padding: 3px 6px;
+  text-decoration: none;
+  
+}
+
+  
+.hero{width: 100%;
+  height: 60vh;
+  background-image: linear-gradient(rgba(0,0,0,0.40),rgba(0,0,0,0.40),#000000),url(2d.jpg);
+
+}
+ h4{margin-top: 0pt;
+text-align: center;
+position: absolute;
+
+  font-size: 16pt;
+  color: black;
+  font-family: fantasy;
+   
+ 
+}
+
+
+
+.logo{margin-top: 30pt;
+  
+  
+}
+button l a{margin-top: 140pt;
+left: 12.5%;
+font-size: 15pt;
+  
+}
+button k a{margin-top: 140pt;
+left: 43%;
+font-size: 15pt;
+}
+button m a{margin-top: 140pt;
+left: 80%;
+font-size: 15pt;
+  
+}
+
+  
+
+.vii{background-image: url(wh.png);
+width: 100%;
+height: 60vh;
+
+  
+
+  
+}
+h5{
+text-align: center;
+margin-top: 0pt;
+color: black;
+font-size: 24pt;
+font-family: Georgia, 'Times New Roman', Times, serif;
+  
+}
